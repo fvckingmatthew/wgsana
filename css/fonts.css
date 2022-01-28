@@ -1,0 +1,37 @@
+@font-face {
+	font-family: "rz-light";
+		src:url("../fonts/roadizsans-light-webfont.woff2") format('woff2'),
+		 url("../fonts/roadizsans-light-webfont.woff") format('woff'),
+		 url("../fonts/roadizsans-light-webfont.svg") format('svg');
+		 
+		 font-weight: 200;
+}
+
+@font-face {
+	font-family: "rz-medium";
+		src:url("../fonts/roadizsans-medium-webfont.woff2") format('woff2'),
+		 url("../fonts/roadizsans-medium-webfont.woff") format('woff'),
+		 url("../fonts/roadizsans-medium-webfont.svg") format('svg');
+		 
+		 font-weight: 300;
+}
+
+@font-face {
+	font-family: "rz-regular";
+		src:url("../fonts/roadizsans-regular-webfont.woff2") format('woff2'),
+		 url("../fonts/roadizsans-regular-webfont.woff") format('woff'),
+		 url("../fonts/roadizsans-regular-webfont.svg") format('svg');
+		 
+		 font-weight: 400;
+}
+
+@font-face {
+	font-family: "maison-neue-mono";
+	src: url("https://d33wubrfki0l68.cloudfront.net/2fd1aa56c5909513e9bd1b80721982723736b2bf/75dfb/fonts/maison-neue/maison-neue-mono.eot");
+	src: url("https://d33wubrfki0l68.cloudfront.net/2fd1aa56c5909513e9bd1b80721982723736b2bf/75dfb/fonts/maison-neue/maison-neue-mono.eot#iefix") format('embedded-opentype'),
+url("https://d33wubrfki0l68.cloudfront.net/a432359bcfdbc552f00439329fe1d54365faa1b3/6655b/fonts/maison-neue/maison-neue-mono.woff2") format('woff2'),
+url("https://d33wubrfki0l68.cloudfront.net/42984e28aef5e94ec487815a859c81f6aabf6c75/684c1/fonts/maison-neue/maison-neue-mono.woff") format('woff'),
+url("https://d33wubrfki0l68.cloudfront.net/698fd55a88d88044f6a766cf9489666253488653/e4741/fonts/maison-neue/maison-neue-mono.svg") format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
